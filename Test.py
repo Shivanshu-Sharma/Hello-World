@@ -13,3 +13,5 @@ for i in range(3):
 
 h = Student(name,*marks)        
 h.prints()
+y7dwefe\
+                      fhewuigf
